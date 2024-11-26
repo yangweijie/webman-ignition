@@ -1,0 +1,14 @@
+{
+  "name": "yangweijie/webman-ignition",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin yangweijie/webman-ignition",
+  "require": {
+    "spatie/ignition": "^1.15"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yangweijie\\WebmanIgnition\\": "src"
+    }
+  }
+}
